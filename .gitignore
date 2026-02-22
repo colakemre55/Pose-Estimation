@@ -7,3 +7,13 @@
 # Specifically allow the scripts folder and its contents
 !/scripts/
 !/scripts/**
+
+!/configs/emre/
+!/lib/dataset/
+!inspect_npy.ipynb
+!test.ipynb
+!requirements.txt
+!boxes.py
+!confidence_results.txt
+!README.md
+!clb.ipynb
